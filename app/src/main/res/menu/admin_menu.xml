@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="example.javatpoint.com.kotlinoptionsmenu.MainActivity">
+
+    <item
+        android:id="@+id/mnu_edit"
+        android:orderInCategory="100"
+        android:title="Edit Detail"/>
+    <item
+        android:id="@+id/mnu_exit"
+        android:title="Log out"
+        android:orderInCategory="120"
+        />
+
+</menu>

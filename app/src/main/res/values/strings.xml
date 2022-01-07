@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsahkeSport</string>
+
+    <string-array name="user_role">
+        <item>Customer</item>
+        <item>Admin</item>
+    </string-array>
+</resources>

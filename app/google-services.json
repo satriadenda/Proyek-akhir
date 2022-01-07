@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638587093044",
+    "project_id": "newsahkesport",
+    "storage_bucket": "newsahkesport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638587093044:android:cededfefe7180d0ea48a61",
+        "android_client_info": {
+          "package_name": "com.udinus.newsahkesport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638587093044-i4sjah3n4kd1vr2t2sa8hi82qusjvlfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiHfNgWsaOjBsmMeFwfVtQ8CJ-8O1kO30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638587093044-i4sjah3n4kd1vr2t2sa8hi82qusjvlfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
